@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @philchapdelaine
+- 👋 Hi, I’m Phil
 - 👀 Check out my [Personal Portfolio](https://www.philchapdelaine.com/)
 - 🌱 I’m currently learning D3.JS and jsPsych
 - 💞️ I’m looking to collaborate on any cool project
