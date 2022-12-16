@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phil
 - 👀 Check out my [Personal Portfolio](https://www.philchapdelaine.com/)
-- 🌱 I’m currently learning D3.JS and jsPsych
+- 🌱 I’m currently learning D3.JS and Python (PsycoPy)
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/philippe-chapdelaine-b63561185/) 
 
